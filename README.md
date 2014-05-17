@@ -9,3 +9,4 @@
 * Northboard - /settings, /preferences
 * Futaba - /bbsmenu.html
 * Dvach - /menu.html
+* Uchan - /
